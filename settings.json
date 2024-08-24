@@ -1,0 +1,10 @@
+{
+    "diffgutter": true,
+    "hlsearch": true,
+    "keymenu": true,
+    "rmtrailingws": true,
+    "savecursor": true,
+    "saveundo": true,
+    "softwrap": true,
+    "tabmovement": true
+}
