@@ -1,4 +1,45 @@
 set softwrap
 set tabsize 4
+#set autoindent
+set smooth
+set tabstospaces
 set mouse
-set autoindent
+set nonewlines
+set multibuffer
+set historylog
+set positionlog
+#set wordbounds
+#set showcursor
+#set magic
+#set indicator
+#set stateflags
+#set minibar
+
+#set linenumbers
+#set numbercolor white
+#set functioncolor white,blue
+#set numbercolor magenta
+#set titlecolor black,white
+#set titlecolor brightwhite,red
+#set titlecolor brightwhite,magenta
+#set statuscolor white,black
+#set keycolor magenta,black
+#set functioncolor white
+#set nohelp
+
+#set modernbindings
+bind ^C copy main
+bind ^V paste main
+bind ^X cut main
+bind ^Z undo main
+bind ^Y redo main
+bind ^S savefile main
+bind ^F whereis main
+bind ^Q exit main
+bind ^W exit main
+bind ^R replace main
+bind ^A mark main
+bind ^T insert main
+bind F1 help main
+#bind F12 nohelp main
+#bind ESC help main
